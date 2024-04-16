@@ -1,0 +1,39 @@
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #008CBA;
+    border-radius: 4px;
+    box-sizing: border-box;
+	background-color:#FFFFFF
+	
+}
+fieldset{box-sizing: border-box;
+    border-radius: 10px;
+	background-color:#FFFFFF;
+    border: 2px solid #008CBA;
+}
+input[type=submit] {
+    width: 30%;
+    background-color: #008CBA;
+    color: white;
+    padding: 7px 5px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ legend
+ {
+	border-radius: 5px;
+	background-color:  #008CBA;
+	padding: 15px;
+	color:white;
+}
+body{
+	 background-image:url(city_scape5b.jpg);
+	 background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	}

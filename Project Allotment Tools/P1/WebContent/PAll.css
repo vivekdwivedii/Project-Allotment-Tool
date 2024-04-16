@@ -1,0 +1,91 @@
+input[type=text], select {
+    width: 100%;
+    padding: 12px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #008CBA;
+    border-radius: 4px;
+    box-sizing: border-box;
+	background-color:#FFFFFF
+	
+}
+
+input[type=select], select {
+    width: 100%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #008CBA;
+    border-radius: 4px;
+    box-sizing: border-box;
+	background-color:#FFFFFF
+	
+}
+
+
+fieldset{box-sizing: border-box;
+    border-radius: 10px;
+	background-color:#f2f2f2;
+	    border: 2px solid #008CBA;
+		width:30%
+		
+}
+input[type=submit] {
+    width: 30%;
+    background-color: #008CBA;
+    color: white;
+    padding: 5px 5px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ legend
+ {
+	border-radius: 5px;
+	background-color:  #008CBA;
+	padding: 15px;
+	color:white;
+}
+body{
+	 background-image:url(city_scape5b.jpg);
+	 background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 7px 15px;
+    text-align: right;
+    text-decoration: blink;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+ 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
